@@ -161,13 +161,13 @@
   top: 0;
   width: 42px;
   height: 42px;
-  background-image: url('/send.svg');
+  background-image: url('/energy-hub-demo/send.svg');
   background-repeat: no-repeat;
   background-position: 50%;
 }
 .search_button-loading:after{
   background-size: 50%;
-  background-image: url('/cancel.svg');
+  background-image: url('/energy-hub-demo/cancel.svg');
 }
 .search_button:hover {
   background-color: #33ae7a;
@@ -202,13 +202,13 @@
 }
 .chat_message-api .message_icon{
   background-color: #10A37F;
-  background-image: url('/api_msg.svg');
+  background-image: url('/energy-hub-demo/api_msg.svg');
   background-repeat: no-repeat;
   background-size: 95%;
 }
 .chat_message-user .message_icon{
   background-color: #9547D2;
-  background-image: url('/y_msg.svg');
+  background-image: url('/energy-hub-demo/y_msg.svg');
 }
 .message_text {
   width: 100%;
@@ -235,11 +235,11 @@
   background-color:#DADAEC;
 }
 .message_interactions_button-like {
-  mask-image: url('/msg_like.svg');
+  mask-image: url('/energy-hub-demo/msg_like.svg');
   -webkit-mask-image: url(/msg_like.svg);
 }
 .message_interactions_button-dislike {
-  mask-image: url('/msg_dislike.svg');
+  mask-image: url('/energy-hub-demo/msg_dislike.svg');
   -webkit-mask-image: url(/msg_dislike.svg);
 }
 .ai_chat_block {
@@ -258,7 +258,7 @@
   cursor: pointer;
   border: none;
   color: #E5E5E5;
-  background-image: url('/insights.svg');
+  background-image: url('/energy-hub-demo/insights.svg');
   background-repeat: no-repeat;
   padding-left: 35px;
   padding-top: 4px;
