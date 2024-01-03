@@ -245,11 +245,11 @@ button:focus {
 }
 .message_interactions_button-like {
   mask-image: url('/energy-hub-demo/msg_like.svg');
-  -webkit-mask-image: url(/msg_like.svg);
+  -webkit-mask-image: url(/energy-hub-demo/msg_like.svg);
 }
 .message_interactions_button-dislike {
   mask-image: url('/energy-hub-demo/msg_dislike.svg');
-  -webkit-mask-image: url(/msg_dislike.svg);
+  -webkit-mask-image: url(/energy-hub-demo/msg_dislike.svg);
 }
 .ai_chat_block {
   height: 100vh;
